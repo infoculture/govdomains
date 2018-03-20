@@ -1,0 +1,11 @@
+www.morflot.ru
+asmp.morflot.ru
+eng.morflot.ru
+gvc.morflot.ru
+kit.morflot.ru
+new.morflot.ru
+old.morflot.ru
+opendata.morflot.ru
+reports.morflot.ru
+skc.morflot.ru
+special.morflot.ru
