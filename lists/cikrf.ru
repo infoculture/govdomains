@@ -1,0 +1,13 @@
+www.cikrf.ru
+chukotka.cikrf.ru
+gd2003.cikrf.ru
+gvv.cikrf.ru
+www.gvv.cikrf.ru
+ikmo.cikrf.ru
+krasnodar.cikrf.ru
+pr2004.cikrf.ru
+smi.cikrf.ru
+tverik.cikrf.ru
+vestnik.cikrf.ru
+zoom.cikrf.ru
+www.zoom.cikrf.ru
