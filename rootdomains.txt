@@ -64,6 +64,7 @@ fss.ru
 pfrf.ru
 ffoms.ru
 gibdd.ru
+oprf.ru
 
 # Initiatives domains
 gosuslugi.ru

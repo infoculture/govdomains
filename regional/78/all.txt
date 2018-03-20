@@ -1,0 +1,12 @@
+gov.spb.ru
+data.gov.spb.ru
+hr.gov.spb.ru
+letters.gov.spb.ru
+tb.gov.spb.ru
+golos.gov.spb.ru
+www.assembly.spb.ru
+www.gz-spb.ru
+www.rgis.spb.ru
+spbrumir.ru
+spbinvestment.ru
+reestr-gis.spb.ru
