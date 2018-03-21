@@ -1,0 +1,15 @@
+www.fsvps.ru
+33.fsvps.ru
+cra.fsvps.ru
+crimea.fsvps.ru
+eng.fsvps.ru
+fitorf.fsvps.ru
+mordovia.fsvps.ru
+murmansk.fsvps.ru
+new-sed.fsvps.ru
+omsk.fsvps.ru
+portal.fsvps.ru
+primorsk.fsvps.ru
+spb.fsvps.ru
+vladimir.fsvps.ru
+vologda.fsvps.ru

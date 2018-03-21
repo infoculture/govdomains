@@ -1,5 +1,8 @@
 # Root orgs domains
 gov.ru
+sudrf.ru
+ssrf.ru
+vkks.ru
 government.ru
 kremlin.ru
 mid.ru
@@ -33,7 +36,7 @@ roskazna.ru
 rosim.ru
 rupto.ru
 fsb.ru
-archives.ru
+archives.su
 rosgvard.ru
 fedsfm.ru
 udprf.ru
@@ -44,14 +47,13 @@ rosrezerv.ru
 mvd.ru
 mchs.ru
 rosminzdrav.ru
-минобрнауки.рф
+xn--80abucjiibhv9a.xn--p1ai
 rosavtodor.ru
 roszeldor.ru
 morflot.ru
 gks.ru
 rosreestr.ru
 russiatourism.ru
-ksrf.ru
 arbitr.ru
 ksrf.ru
 cikrf.ru
@@ -78,11 +80,23 @@ ombudsmanrf.org
 fedstat.ru
 egais.ru
 gosmonitor.ru
+xn--n1abdok.xn--p1ai
+fcpir.ru
+xn--80akibcicpdbetz7e2g.xn--p1ai
+xn--80apneeq.xn--p1ai
+usynovite.ru
+
+# Events 
+ecoyear.ru
+spblegalforum.ru
+
 
 # gov.ru known subdomains (government bodies)
 open.gov.ru
+ed.gov.ru
 mchs.gov.ru
 rs.gov.ru
+scrf.gov.ru
 fsvts.gov.ru
 obrnadzor.gov.ru
 fadm.gov.ru
@@ -120,6 +134,10 @@ rosenergo.gov.ru
 
 # gov.ru orgs, projects and initiatives subdomains
 ac.gov.ru
+aiss.gov.ru
+migrakvota.gov.ru
+zapret-info.gov.ru
+ar.gov.ru
 data.gov.ru
 orv.gov.ru
 regulation.gov.ru
