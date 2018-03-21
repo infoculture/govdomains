@@ -1,0 +1,12 @@
+www.minvr.ru
+cms.minvr.ru
+cn.minvr.ru
+cod.minvr.ru
+eng.minvr.ru
+invest.minvr.ru
+map.minvr.ru
+navodnenie.minvr.ru
+old.minvr.ru
+open.minvr.ru
+www.open.minvr.ru
+project.minvr.ru

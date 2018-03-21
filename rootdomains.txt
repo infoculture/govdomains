@@ -36,7 +36,7 @@ roskazna.ru
 rosim.ru
 rupto.ru
 fsb.ru
-archives.su
+archives.ru
 rosgvard.ru
 fedsfm.ru
 udprf.ru
@@ -75,16 +75,31 @@ roi.ru
 i-russia.ru
 crimestat.ru
 vetrf.ru
-archives.ru
+rusarchives.ru
 ombudsmanrf.org 
 fedstat.ru
 egais.ru
 gosmonitor.ru
 xn--n1abdok.xn--p1ai
-fcpir.ru
 xn--80akibcicpdbetz7e2g.xn--p1ai
 xn--80apneeq.xn--p1ai
 usynovite.ru
+energourok.ru
+xn----8sbmmlgncfbgqis7m.xn--p1ai
+trudvsem.ru
+
+
+# Federal government programs
+fcpir.ru
+fcpfarma.ru
+fcntp.ru
+fcpk.ru
+xn---2030-bwe0hj7au5h.xn--p1ai
+fcp-pbdd.ru
+fcpkultura.ru
+xn--n1abdok.xn--p1ai
+fcp-radbez.ru
+fcpnano.ru
 
 # Events 
 ecoyear.ru
@@ -131,10 +146,21 @@ odkb.gov.ru
 oborona.gov.ru
 gvp.gov.ru   
 rosenergo.gov.ru
+gvsu.gov.ru
+fpi.gov.ru
+mon.gov.ru
+deti.gov.ru
 
 # gov.ru orgs, projects and initiatives subdomains
 ac.gov.ru
+fms.gov.ru
+design.gov.ru
+beta.gov.ru
+science.gov.ru
 aiss.gov.ru
+award.gov.ru
+adm.gov.ru
+rar.gov.ru
 migrakvota.gov.ru
 zapret-info.gov.ru
 ar.gov.ru
