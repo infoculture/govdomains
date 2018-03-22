@@ -1,0 +1,15 @@
+www.gost.ru
+expert.gost.ru
+fgis.gost.ru
+www.fgis.gost.ru
+fskp.gost.ru
+gosuslugi.gost.ru
+www.interstandard.gost.ru
+iso.gost.ru
+www.iso.gost.ru
+www.mgs.gost.ru
+portal.gost.ru
+rssp.gost.ru
+standard.gost.ru
+tk.gost.ru
+webportalsrv.gost.ru

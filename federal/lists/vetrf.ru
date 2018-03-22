@@ -1,0 +1,12 @@
+www.vetrf.ru
+argus.vetrf.ru
+cerberus.vetrf.ru
+demo-accounts.vetrf.ru
+demo-mercury.vetrf.ru
+duma.vetrf.ru
+galen.vetrf.ru
+help.vetrf.ru
+irena.vetrf.ru
+mercury.vetrf.ru
+sirano.vetrf.ru
+vesta.vetrf.ru

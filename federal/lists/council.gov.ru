@@ -1,0 +1,12 @@
+www.council.gov.ru
+defence.council.gov.ru
+einform.council.gov.ru
+fedorov.council.gov.ru
+link.council.gov.ru
+mobile.council.gov.ru
+pisma.council.gov.ru
+region.council.gov.ru
+rt.council.gov.ru
+services.council.gov.ru
+social.council.gov.ru
+special.council.gov.ru

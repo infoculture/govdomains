@@ -1,0 +1,13 @@
+www.obrnadzor.gov.ru
+accred.obrnadzor.gov.ru
+accreqstate.obrnadzor.gov.ru
+ais-monitoring.obrnadzor.gov.ru
+apostille.obrnadzor.gov.ru
+frdo.obrnadzor.gov.ru
+frdocheck.obrnadzor.gov.ru
+inspect.obrnadzor.gov.ru
+isga.obrnadzor.gov.ru
+lic.obrnadzor.gov.ru
+old.obrnadzor.gov.ru
+owa.obrnadzor.gov.ru
+trs.obrnadzor.gov.ru

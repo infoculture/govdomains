@@ -67,6 +67,8 @@ pfrf.ru
 ffoms.ru
 gibdd.ru
 oprf.ru
+msudrf.ru
+favr.ru
 
 # Initiatives domains
 gosuslugi.ru
@@ -87,7 +89,16 @@ usynovite.ru
 energourok.ru
 xn----8sbmmlgncfbgqis7m.xn--p1ai
 trudvsem.ru
+zapoved.ru
+lesegais.ru
+priroda-ok.ru
+esimo.ru
+esimo.net
+oceaninfo.ru
+morinfocenter.ru
 
+# Expert and social councils
+osrpn.ru
 
 # Federal government programs
 fcpir.ru
@@ -95,11 +106,13 @@ fcpfarma.ru
 fcntp.ru
 fcpk.ru
 xn---2030-bwe0hj7au5h.xn--p1ai
+xn----8sbmmlgncfbgqis7m.xn--p1ai
 fcp-pbdd.ru
 fcpkultura.ru
 xn--n1abdok.xn--p1ai
 fcp-radbez.ru
 fcpnano.ru
+fcpvhk.ru
 
 # Events 
 ecoyear.ru
