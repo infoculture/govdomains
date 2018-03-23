@@ -68,7 +68,9 @@ ffoms.ru
 gibdd.ru
 oprf.ru
 msudrf.ru
+mon.gov.ru
 favr.ru
+xn--90adear.xn--p1ai
 
 # Initiatives domains
 gosuslugi.ru
@@ -85,6 +87,7 @@ gosmonitor.ru
 xn--n1abdok.xn--p1ai
 xn--80akibcicpdbetz7e2g.xn--p1ai
 xn--80apneeq.xn--p1ai
+xn--80abhddbmm5bieahtk5n.xn--p1ai
 usynovite.ru
 energourok.ru
 xn----8sbmmlgncfbgqis7m.xn--p1ai
@@ -96,9 +99,13 @@ esimo.ru
 esimo.net
 oceaninfo.ru
 morinfocenter.ru
+video-duma.ru
 
 # Expert and social councils
 osrpn.ru
+president-sovet.ru
+nspkrf.ru
+youngscience.gov.ru
 
 # Federal government programs
 fcpir.ru
@@ -166,10 +173,13 @@ deti.gov.ru
 
 # gov.ru orgs, projects and initiatives subdomains
 ac.gov.ru
+premier.gov.ru
 fms.gov.ru
 design.gov.ru
 beta.gov.ru
 science.gov.ru
+marine.gov.ru
+rta.gov.ru
 aiss.gov.ru
 award.gov.ru
 adm.gov.ru

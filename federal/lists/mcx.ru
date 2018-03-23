@@ -1,6 +1,4 @@
-www.mcx.ru
 ac.mcx.ru
-www.ac.mcx.ru
 agroinfo.mcx.ru
 atlas.mcx.ru
 blog.mcx.ru
@@ -8,14 +6,13 @@ bp.mcx.ru
 cri.mcx.ru
 fem.mcx.ru
 fgupusz.mcx.ru
-www.fgupusz.mcx.ru
 forum.mcx.ru
 gz.mcx.ru
 japanforum.mcx.ru
 kruz.mcx.ru
+moloko.out10.mcx.ru
 old.mcx.ru
 opendata.mcx.ru
-moloko.out10.mcx.ru
 out11.mcx.ru
 passport.mcx.ru
 prodbez.mcx.ru
@@ -25,3 +22,6 @@ snti.mcx.ru
 support2011.mcx.ru
 tsp.mcx.ru
 videoblog.mcx.ru
+www.ac.mcx.ru
+www.fgupusz.mcx.ru
+www.mcx.ru

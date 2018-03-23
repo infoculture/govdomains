@@ -1,5 +1,3 @@
-www.fas.gov.ru
-www.amur.fas.gov.ru
 arhangelsk.fas.gov.ru
 astrahan.fas.gov.ru
 bash.fas.gov.ru
@@ -16,14 +14,12 @@ habarovsk.fas.gov.ru
 hakasia.fas.gov.ru
 hmao.fas.gov.ru
 itc.fas.gov.ru
-yalta2017.itc.fas.gov.ru
 ivanovo.fas.gov.ru
 kamchatka.fas.gov.ru
 kbr.fas.gov.ru
 kemerovo.fas.gov.ru
 kirov.fas.gov.ru
 knd.fas.gov.ru
-www.komi.fas.gov.ru
 krasnodar.fas.gov.ru
 krsk.fas.gov.ru
 kurgan.fas.gov.ru
@@ -60,7 +56,6 @@ sverdlovsk.fas.gov.ru
 tambov.fas.gov.ru
 tomsk.fas.gov.ru
 torgi.fas.gov.ru
-www.torgi.fas.gov.ru
 torrent.fas.gov.ru
 tula.fas.gov.ru
 tyumen.fas.gov.ru
@@ -68,5 +63,10 @@ vladimir.fas.gov.ru
 volgograd.fas.gov.ru
 vologda.fas.gov.ru
 voronezh.fas.gov.ru
+www.amur.fas.gov.ru
+www.fas.gov.ru
+www.komi.fas.gov.ru
+www.torgi.fas.gov.ru
+yalta2017.itc.fas.gov.ru
 yamal.fas.gov.ru
 yealink.fas.gov.ru
