@@ -1,0 +1,11 @@
+www.zapoved.ru
+astrakhan.zapoved.ru
+baikalsk.zapoved.ru
+kostom.zapoved.ru
+mail.zapoved.ru
+news.zapoved.ru
+ns1.zapoved.ru
+ns2.zapoved.ru
+prbory.zapoved.ru
+volkam.zapoved.ru
+yugydva.zapoved.ru

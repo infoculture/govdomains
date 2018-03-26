@@ -5,3 +5,4 @@ rgis.spb.ru
 spbrumir.ru
 spbinvestment.ru
 reestr-gis.spb.ru
+mirsud.spb.ru
