@@ -4,3 +4,5 @@ gosinvest.open.gov.ru
 goszakupki.open.gov.ru
 odc.open.gov.ru
 opendata.open.gov.ru
+conference.open.gov.ru
+data.open.gov.ru

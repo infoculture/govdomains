@@ -13,11 +13,7 @@ espdmon.minsvyaz.ru
 forum.minsvyaz.ru
 geo.minsvyaz.ru
 geo-api.minsvyaz.ru
-mail1.guc.minsvyaz.ru
-it.minsvyaz.ru
 knd.minsvyaz.ru
-mail.minsvyaz.ru
-mx0.minsvyaz.ru
 nfap.minsvyaz.ru
 www.nfap.minsvyaz.ru
 old.minsvyaz.ru

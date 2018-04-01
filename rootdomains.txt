@@ -171,9 +171,12 @@ gvsu.gov.ru
 fpi.gov.ru
 mon.gov.ru
 deti.gov.ru
+minpromtorg.gov.ru
 
 # gov.ru orgs, projects and initiatives subdomains
 ac.gov.ru
+edu.gov.ru
+gisp.gov.ru
 premier.gov.ru
 fms.gov.ru
 design.gov.ru
