@@ -16,7 +16,6 @@ www.sledcom.ru
 11.sledcom.ru
 12.sledcom.ru
 13.sledcom.ru
-mail.13.sledcom.ru
 14.sledcom.ru
 15.sledcom.ru
 16.sledcom.ru
