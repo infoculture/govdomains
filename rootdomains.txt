@@ -32,7 +32,7 @@ rostrud.ru
 nalog.ru
 fsrar.ru
 customs.ru
-roskazna.ru      
+roskazna.ru
 rosim.ru
 rupto.ru
 fsb.ru
@@ -69,9 +69,12 @@ ffoms.ru
 gibdd.ru
 oprf.ru
 msudrf.ru
-mon.gov.ru
 favr.ru
 xn--90adear.xn--p1ai
+
+# Infrastructure domains (RSNET and over government networks)
+rsnet.ru
+
 
 # Initiatives domains
 gosuslugi.ru
@@ -101,6 +104,26 @@ esimo.net
 oceaninfo.ru
 morinfocenter.ru
 video-duma.ru
+videoduma.ru
+uznai-prezidenta.ru
+rfpress.ru
+obsudiproekt.ru
+zakonoproekt2012.ru
+pfo.ru
+dumasoft.ru
+may9.ru
+urok-v-kremle.ru
+krln.ru
+vkremle.ru
+okremle.ru
+openkremlin.ru
+da-medvedev.ru
+fedresurs.ru
+apsrf.ru
+anticartel.ru
+bric-competition.ru
+pgu-support.ru
+grbs-minfin.ru
 
 # Expert and social councils
 osrpn.ru
@@ -129,6 +152,7 @@ spblegalforum.ru
 
 # gov.ru known subdomains (government bodies)
 open.gov.ru
+mon.gov.ru
 ed.gov.ru
 mchs.gov.ru
 rs.gov.ru
