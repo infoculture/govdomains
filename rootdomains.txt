@@ -124,6 +124,7 @@ anticartel.ru
 bric-competition.ru
 pgu-support.ru
 grbs-minfin.ru
+egrz.ru
 
 # Expert and social councils
 osrpn.ru
