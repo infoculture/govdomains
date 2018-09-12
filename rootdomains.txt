@@ -200,10 +200,13 @@ fpi.gov.ru
 mon.gov.ru
 deti.gov.ru
 minpromtorg.gov.ru
+minprom.gov.ru
+audit.gov.ru
+ach.gov.ru
 
 # gov.ru orgs, projects and initiatives subdomains
 ac.gov.ru
-edu.gov.ru
+madeinrussia.gov.ru
 gisp.gov.ru
 premier.gov.ru
 fms.gov.ru
@@ -229,7 +232,6 @@ pravo.gov.ru
 zakupki.gov.ru
 bus.gov.ru
 parliament.gov.ru
-audit.gov.ru
 torgi.gov.ru
 proverki.gov.ru
 tkmv.gov.ru
@@ -240,3 +242,7 @@ nic.gov.ru
 arctic.gov.ru
 smb.gov.ru
 export.gov.ru
+pay.gov.ru
+mkgu.ru
+xn--d1achjhdicc8bh4h.xn--p1ai
+
