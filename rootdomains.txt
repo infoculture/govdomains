@@ -79,6 +79,7 @@ rsnet.ru
 # Initiatives domains
 gosuslugi.ru
 asi.ru
+eskigov.ru
 roi.ru
 i-russia.ru
 crimestat.ru
@@ -156,6 +157,8 @@ open.gov.ru
 mon.gov.ru
 ed.gov.ru
 mchs.gov.ru
+edu.gov.ru
+minobrnauki.gov.ru
 rs.gov.ru
 scrf.gov.ru
 fsvts.gov.ru

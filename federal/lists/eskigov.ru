@@ -1,0 +1,14 @@
+www.eskigov.ru
+392.eskigov.ru
+arm.eskigov.ru
+auth.eskigov.ru
+fgiski.dev.eskigov.ru
+er.eskigov.ru
+arm.er.eskigov.ru
+jira.eskigov.ru
+portal.eskigov.ru
+rabbitmq.eskigov.ru
+reg.eskigov.ru
+uviri.eskigov.ru
+auth.uviri.eskigov.ru
+rabbitmq.uviri.eskigov.ru
