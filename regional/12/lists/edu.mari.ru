@@ -1,0 +1,1 @@
+mail.edu.mari.ru

@@ -1,0 +1,12 @@
+www.zmir-altai.ru
+gosuslugi.zmir-altai.ru
+www.gosuslugi.zmir-altai.ru
+cpanel.gosuslugi.zmir-altai.ru
+mail.gosuslugi.zmir-altai.ru
+webdisk.gosuslugi.zmir-altai.ru
+webmail.gosuslugi.zmir-altai.ru
+inter.zmir-altai.ru
+www.inter.zmir-altai.ru
+cpanel.inter.zmir-altai.ru
+webdisk.inter.zmir-altai.ru
+webmail.inter.zmir-altai.ru

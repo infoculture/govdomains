@@ -71,6 +71,7 @@ oprf.ru
 msudrf.ru
 favr.ru
 xn--90adear.xn--p1ai
+pfr.ru
 
 # Infrastructure domains (RSNET and over government networks)
 rsnet.ru
@@ -126,6 +127,13 @@ bric-competition.ru
 pgu-support.ru
 grbs-minfin.ru
 egrz.ru
+culture.ru
+mkstat.ru
+educationglobal.ru
+mkgu.ru
+xn--d1achjhdicc8bh4h.xn--p1ai
+
+
 
 # Expert and social councils
 osrpn.ru
@@ -243,6 +251,4 @@ arctic.gov.ru
 smb.gov.ru
 export.gov.ru
 pay.gov.ru
-mkgu.ru
-xn--d1achjhdicc8bh4h.xn--p1ai
-
+reestrmv.gov.ru

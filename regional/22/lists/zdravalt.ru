@@ -1,0 +1,14 @@
+dialin.corp.zdravalt.ru
+gitlab.corp.zdravalt.ru
+lync-proxy2013.corp.zdravalt.ru
+lyncdiscover.corp.zdravalt.ru
+meddoc.corp.zdravalt.ru
+medtech.corp.zdravalt.ru
+meet.corp.zdravalt.ru
+officewebapps01.corp.zdravalt.ru
+staff.corp.zdravalt.ru
+webext.corp.zdravalt.ru
+gb11-brn.zdravalt.ru
+gb2-bsk.zdravalt.ru
+reg.zdravalt.ru
+support.zdravalt.ru
