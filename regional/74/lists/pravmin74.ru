@@ -1,0 +1,13 @@
+www.pravmin74.ru
+backup.pravmin74.ru
+gosslujba.pravmin74.ru
+monitoring.gosslujba.pravmin74.ru
+m.pravmin74.ru
+newgosslujba.pravmin74.ru
+ombudsman174.pravmin74.ru
+www.ombudsman174.pravmin74.ru
+op-mon.pravmin74.ru
+pgu.pravmin74.ru
+www.pgu.pravmin74.ru
+poor.pravmin74.ru
+ruk.pravmin74.ru

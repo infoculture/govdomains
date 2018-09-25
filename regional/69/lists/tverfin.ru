@@ -1,0 +1,15 @@
+www.tverfin.ru
+bks.tverfin.ru
+www.bks.tverfin.ru
+gmf.tverfin.ru
+www.gmf.tverfin.ru
+jabber.tverfin.ru
+mail.tverfin.ru
+portal.tverfin.ru
+ppmi.tverfin.ru
+reg.tverfin.ru
+www.reg.tverfin.ru
+svod.tverfin.ru
+torgi.tverfin.ru
+www.torgi.tverfin.ru
+xmpp.tverfin.ru

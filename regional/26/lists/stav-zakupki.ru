@@ -1,0 +1,1 @@
+vks.stav-zakupki.ru

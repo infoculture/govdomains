@@ -1,0 +1,10 @@
+www.inf74.ru
+asu.inf74.ru
+gis.inf74.ru
+www.gis.inf74.ru
+esia.gis.inf74.ru
+www.esia.gis.inf74.ru
+od.inf74.ru
+okn.inf74.ru
+site.inf74.ru
+www.site.inf74.ru

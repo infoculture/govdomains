@@ -1,0 +1,10 @@
+www.fkr25.ru
+cpanel.fkr25.ru
+lk.fkr25.ru
+mail.fkr25.ru
+tender.fkr25.ru
+www.tender.fkr25.ru
+test.fkr25.ru
+www.test.fkr25.ru
+webdisk.fkr25.ru
+webmail.fkr25.ru
