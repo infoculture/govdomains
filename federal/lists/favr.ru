@@ -1,0 +1,11 @@
+www.favr.ru
+appointment.favr.ru
+fin.favr.ru
+www.fin.favr.ru
+gvr.favr.ru
+mail.favr.ru
+portal.favr.ru
+siu-portal.favr.ru
+siu2-portal.favr.ru
+smev.favr.ru
+staging.favr.ru
