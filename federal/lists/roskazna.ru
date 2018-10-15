@@ -161,6 +161,7 @@ sevastopol.roskazna.ru
 smolensk.roskazna.ru
 stavropol.roskazna.ru
 stv.roskazna.ru
+suetest.roskazna.ru
 sverdlovsk.roskazna.ru
 svn.sk.roskazna.ru
 tambov.roskazna.ru

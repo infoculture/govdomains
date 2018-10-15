@@ -1,0 +1,49 @@
+ASN	name	cidr	owner	comment
+8291	RSNET	95.173.128.0/20	 Federal Guard Service of the Russian Federation
+196747	ELECTRONIC-GOVERNMENT	109.207.0.0/20	Rostelecom
+61166	FSRAR	146.120.90.0/24	Federal service of alcogolic market regulation
+49186	VOSKHOD-AS	185.194.34.0/24	NII Voskhod (Subsidiary of Ministry of digital development of RF)
+34851	FSS-AS	193.148.44.0/24	Federal Social Insurance Fund
+31379	FPF-AS	193.151.0.0/22	Russian federal property agency
+30853	METEOTELECOM Moscow, Russia	193.7.160.0/24	Russian meteorology agency
+30853	METEOTELECOM Moscow, Russia	193.7.162.0/24	Russian meteorology agency
+199148	MINZDRAV-RF-AS	194.0.219.0/24	Minzdrav RF
+52184	GIVC-NET	194.190.9.0/24	GIVC Munculture of Russia
+42121	RSNET1-AS	194.226.127.0/24	 Russian State Internet Network
+62422	FAS-AS	194.226.26.0/24 	Federal Antimonopy Service
+43797	RSNET2-AS	194.226.88.0/22	Russian State Internet Network
+196764	IVC-MPR-AS	194.242.30.0/23	Minprirody of Russia IVC
+44560	MIA-AS	194.8.70.0/23	Russian GIBDD Network
+31324	MPT-AS	194.85.1.0/24	Russian Ministry of Industry
+57580	SRCI-MID-RF-AS	194.85.30.0/24	Russian Ministry of Foreign Affairs
+57580	SRCI-MID-RF-AS	217.107.120.0/24	Russian Ministry of Foreign Affairs
+199922	PFR-AS	195.161.52.0/23	Russian Pension Fund
+43797	RSNET2-AS	195.68.252.0/24	Russian State Internet Network
+41636	MINFIN-AS	195.80.224.0/24	Russian Ministry of Finances
+60628	ROSENERGO-AS	212.192.206.0/24	Rosenergo agency
+62264	RIHMI-AS	212.193.170.0/24	Russian hydrometeorology org
+8904	BANK_OF_RUSSIA CBRF Autonomous System	212.40.192.0/21	Bank of Russia
+41361	GOZNAK-AS	31.41.245.0/24	FGUP Gosznak
+56725	GOZNAK-AS	91.227.32.0/24	FGUP Gosznak
+60518	ARRIAH-AS	62.76.145.0/24	Russian veterinary agency
+42056	MERT-RF-AS	91.206.120.0/24	Ministry of economic development
+42056	MERT-RF-AS	91.206.121.0/24	Ministry of economic development
+51791	PVTI-AS	91.207.79.0/24	NII PVTI (FGBU CEKI)
+52062	FCI-NET-AS	91.222.156.0/22	Central election comission
+8291	RSNET-AS	95.173.128.0/22	Russian State Internet Network
+43797	RSNET2-AS	95.173.144.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.145.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.146.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.147.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.148.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.149.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.150.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.151.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.153.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.154.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.155.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.156.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.157.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.158.0/24	Russian State Internet Network
+43797	RSNET2-AS	95.173.159.0/24	Russian State Internet Network
+203521	RSNET3-AS	?	Russian State Internet Network

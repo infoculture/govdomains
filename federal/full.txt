@@ -43,7 +43,7 @@ udprf.ru
 gfs.ru
 rospotrebnadzor.ru
 gosnadzor.ru
-rosrezerv.ru
+rosreserv.ru
 mvd.ru
 mchs.ru
 rosminzdrav.ru
@@ -76,17 +76,25 @@ pfr.ru
 # Infrastructure domains (RSNET and over government networks)
 rsnet.ru
 
-
 # Initiatives domains
+gis-tek.ru
+gisee.ru
+statreport.ru
+govprograms.ru
+zhit-vmeste.ru
+reestrgk.ru
 gosuslugi.ru
 asi.ru
 eskigov.ru
 roi.ru
+o-spide.ru
+takzdorovo.ru
+gto.ru
 i-russia.ru
 crimestat.ru
 vetrf.ru
 rusarchives.ru
-ombudsmanrf.org 
+ombudsmanrf.org
 fedstat.ru
 egais.ru
 gosmonitor.ru
@@ -198,14 +206,14 @@ ufo.gov.ru
 uralfo.gov.ru
 szfo.gov.ru
 deti.gov.ru
-dfo.gov.ru    
-vak.gov.ru
+dfo.gov.ru
 odkb.gov.ru
 oborona.gov.ru
 gvp.gov.ru   
 rosenergo.gov.ru
 gvsu.gov.ru
 fpi.gov.ru
+gossluzhba.gov.ru
 mon.gov.ru
 deti.gov.ru
 minpromtorg.gov.ru
@@ -5281,6 +5289,7 @@ sevastopol.roskazna.ru
 smolensk.roskazna.ru
 stavropol.roskazna.ru
 stv.roskazna.ru
+suetest.roskazna.ru
 sverdlovsk.roskazna.ru
 svn.sk.roskazna.ru
 tambov.roskazna.ru
