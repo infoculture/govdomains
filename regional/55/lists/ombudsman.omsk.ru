@@ -1,0 +1,1 @@
+mail.ombudsman.omsk.ru

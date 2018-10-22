@@ -162,7 +162,9 @@ gisgmp.bashkortostan.ru:8080
 gisgmp.bashkortostan.ru:9090
 www.glavarb.ru
 www.gsrb.ru
-www.ks-rb.ruwww.ksp02.ruwww.mintrudrb.ru
+www.ks-rb.ru
+www.ksp02.ru
+www.mintrudrb.ru
 api.mintrudrb.ru
 bashrrc.mintrudrb.ru
 bomzh.mintrudrb.ru
@@ -310,7 +312,8 @@ transport.openrepublic.ru
 veterinary.openrepublic.ru
 zakon.openrepublic.ru
 zianchura.openrepublic.ru
-www.pprb-chel.ruwww.pravitelstvorb.ru
+www.pprb-chel.ru
+www.pravitelstvorb.ru
 old.pravitelstvorb.ru
 prt.pravitelstvorb.ru
 zaural.pravitelstvorb.ru

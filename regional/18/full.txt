@@ -15,7 +15,8 @@ minsoc18.ru
 udmedu.ru
 minnac.ru
 miour.ru
-mzur.rudb.gasur.ru
+mzur.ru
+db.gasur.ru
 ea.gasur.ru
 fc.gasur.ru
 dwh.mfur.ru

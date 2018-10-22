@@ -23,8 +23,8 @@ def merge_regional():
 		out = open('../regional/%s/full.txt' % (d), 'w')
 		f = open('../regional/%s/roots.txt' % (d))
 		for l in f:
-			out.write(l)
-			fullout.write(l)
+			out.write(l.strip() + '\n')
+			fullout.write(l.strip() + '\n')
 		f.close
 		try:
 			lists = os.listdir('../regional/%s/lists' % (d))
@@ -33,8 +33,8 @@ def merge_regional():
 		for name in lists:
 			f = open('../regional/%s/lists/' % (d) + name)
 			for l in f:
-				out.write(l)
-				fullout.write(l)
+				out.write(l.strip() + '\n')
+				fullout.write(l.strip() + '\n')
 			f.close
 		out.close()
 

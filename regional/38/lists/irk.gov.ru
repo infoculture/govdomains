@@ -1,0 +1,3 @@
+www.irk.gov.ru
+old.irk.gov.ru
+www.old.irk.gov.ru

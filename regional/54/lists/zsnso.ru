@@ -1,0 +1,13 @@
+www.zsnso.ru
+1c.zsnso.ru
+calendar.zsnso.ru
+er.zsnso.ru
+er2.zsnso.ru
+law.zsnso.ru
+mx1.zsnso.ru
+npa.zsnso.ru
+ns1.zsnso.ru
+old.zsnso.ru
+video.zsnso.ru
+www1.zsnso.ru
+wwwold.zsnso.ru

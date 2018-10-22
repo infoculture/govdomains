@@ -1,0 +1,12 @@
+www.infomed39.ru
+er.infomed39.ru
+gkb-smp.infomed39.ru
+gvardeysk-crb.infomed39.ru
+help.infomed39.ru
+mail.infomed39.ru
+mis.infomed39.ru
+mx.infomed39.ru
+okb.infomed39.ru
+osp.infomed39.ru
+post.infomed39.ru
+xm.infomed39.ru

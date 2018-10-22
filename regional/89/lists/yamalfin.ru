@@ -1,0 +1,14 @@
+www.yamalfin.ru
+fea02.yamalfin.ru
+fea03.yamalfin.ru
+fea09.yamalfin.ru
+fea12.yamalfin.ru
+feaweb.yamalfin.ru
+fin.yamalfin.ru
+forum.yamalfin.ru
+rid.yamalfin.ru
+rpu.yamalfin.ru
+sbor.yamalfin.ru
+sbor03.yamalfin.ru
+svod.yamalfin.ru
+sbor.yamalfin.ru:8010

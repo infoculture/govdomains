@@ -27,7 +27,8 @@ eps74.ru
 investregion74.ru
 zs74.ru
 gubernator74.ru
-ksp74.rualc.chelagro.ru
+ksp74.ru
+alc.chelagro.ru
 decl.chelagro.ru
 relay.chelagro.ru
 report.chelagro.ru
@@ -273,7 +274,8 @@ www.site.inf74.ru
 en.investregion74.ru
 ru.investregion74.ru
 zh.investregion74.ru
-www.ksp74.ruwastemap.mineco174.ru
+www.ksp74.ru
+wastemap.mineco174.ru
 waster.mineco174.ru
 www.minfin74.ru
 cr.minfin74.ru

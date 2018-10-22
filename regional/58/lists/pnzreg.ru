@@ -1,0 +1,14 @@
+USLUGI.pnzreg.ru
+archive.pnzreg.ru
+finance.pnzreg.ru
+gosuslugi.pnzreg.ru
+www.gosuslugi.pnzreg.ru
+issa.pnzreg.ru
+uspenskoe.mokshan.pnzreg.ru
+bolshehutor.nlomov.pnzreg.ru
+pgu.pnzreg.ru
+www.pgu.pnzreg.ru
+krasnopolje.pnz.pnzreg.ru
+uslugi.pnzreg.ru
+www.uslugi.pnzreg.ru
+uslugi2.pnzreg.ru
