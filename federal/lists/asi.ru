@@ -10,3 +10,4 @@ www.foresighttrip.asi.ru
 forum.asi.ru
 m.asi.ru
 old.asi.ru
+kb.asi.ru
