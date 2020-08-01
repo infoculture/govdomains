@@ -8,3 +8,5 @@ de-pm.ac.gov.ru
 itcontest.ac.gov.ru
 knd.ac.gov.ru
 polling.ac.gov.ru
+digital.ac.gov.ru
+http://olimp.ac.gov.ru/
