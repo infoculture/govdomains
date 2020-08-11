@@ -3,9 +3,12 @@ omskzan.ru
 ombudsman.omsk.ru
 omsk-parlament.ru
 kspomskobl.ru
-mail.ombudsman.omsk.ru
+www.omskzan.ru
+iap.omskzan.ru
+webmail.omskzan.ru
 www.omsk-parlament.ru
 cabinet.omsk-parlament.ru
+mail.ombudsman.omsk.ru
 www.omskportal.ru
 300.omskportal.ru
 agp.omskportal.ru
@@ -212,6 +215,3 @@ zakupki.omskportal.ru
 www.zakupki.omskportal.ru
 znam.omskportal.ru
 www.znam.omskportal.ru
-www.omskzan.ru
-iap.omskzan.ru
-webmail.omskzan.ru

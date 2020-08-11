@@ -4,6 +4,10 @@ penza.mdocs.ru
 ombudsmanpnz.ru
 zspo.ru
 sp-penza.ru
+cn.welcome2penza.ru
+www.en.welcome2penza.ru
+mp.zspo.ru
+ns.zspo.ru
 USLUGI.pnzreg.ru
 archive.pnzreg.ru
 finance.pnzreg.ru
@@ -18,7 +22,3 @@ krasnopolje.pnz.pnzreg.ru
 uslugi.pnzreg.ru
 www.uslugi.pnzreg.ru
 uslugi2.pnzreg.ru
-cn.welcome2penza.ru
-www.en.welcome2penza.ru
-mp.zspo.ru
-ns.zspo.ru

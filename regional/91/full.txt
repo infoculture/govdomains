@@ -1,9 +1,5 @@
 rk.gov.ru
 crimea.gov.ru
-www.crimea.gov.ru
-mail.crimea.gov.ru
-ud.crimea.gov.ru
-www.ud.crimea.gov.ru
 alushta.rk.gov.ru
 armyansk.rk.gov.ru
 bahch.rk.gov.ru
@@ -138,3 +134,7 @@ www.vcs.rk.gov.ru
 yalta.rk.gov.ru
 zakupki.rk.gov.ru
 sudak.rk.gov.ru:8880
+www.crimea.gov.ru
+mail.crimea.gov.ru
+ud.crimea.gov.ru
+www.ud.crimea.gov.ru

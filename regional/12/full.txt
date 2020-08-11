@@ -12,10 +12,6 @@ parliament.mari.ru
 mfc.mari.ru
 portal.mari.ru
 mail.edu.mari.ru
-www.gov.mari.ru
-portal.gov.mari.ru
-sbs.gov.mari.ru
-smtp.gov.mari.ru
 edinros.gov12.ru
 fskn.gov12.ru
 gfi.gov12.ru
@@ -27,12 +23,10 @@ www.proc.gov12.ru
 rop.gov12.ru
 rtn.gov12.ru
 ufssp.gov12.ru
-contingent.mari-el.gov.ru
-do.mari-el.gov.ru
-dpc.mari-el.gov.ru
-mfc.mari-el.gov.ru
-pgu.mari-el.gov.ru
-sgo.mari-el.gov.ru
+www.gov.mari.ru
+portal.gov.mari.ru
+sbs.gov.mari.ru
+smtp.gov.mari.ru
 www.alkon.mari-el.ru
 alyans.mari-el.ru
 artes.mari-el.ru
@@ -125,3 +119,9 @@ nmc-it.mari-el.ru:8998
 nmc-it.mari-el.ru:8999
 www.nmc-it.mari-el.ru:8999
 atlas.nmc-it.mari-el.ru:8999
+contingent.mari-el.gov.ru
+do.mari-el.gov.ru
+dpc.mari-el.gov.ru
+mfc.mari-el.gov.ru
+pgu.mari-el.gov.ru
+sgo.mari-el.gov.ru

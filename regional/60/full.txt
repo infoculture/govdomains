@@ -1,5 +1,6 @@
 pskov.ru
 sp-po.ru
+www.sp-po.ru
 www.pskov.ru
 03.pskov.ru
 www.ads.pskov.ru
@@ -186,4 +187,3 @@ zeus.pskov.ru
 www.zeus.pskov.ru
 zto.pskov.ru
 www.zto.pskov.ru
-www.sp-po.ru

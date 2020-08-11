@@ -100,9 +100,9 @@ conf.vks.gov35.ru
 sip.vks.gov35.ru
 zags.gov35.ru
 zengate.gov35.ru
-www.kspvo.ru
 www.vologda-oblast.ru
 site.vologda-oblast.ru
 www.vopros.vologda-oblast.ru
+www.kspvo.ru
 www.vologdazso.ru
 video.vologdazso.ru

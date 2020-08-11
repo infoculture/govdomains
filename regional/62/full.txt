@@ -2,12 +2,6 @@ ryazangov.ru
 ryazagro.ru
 rznoblduma.ru
 ksp62.ru
-www.ksp62.ru
-www.ksp62.ru:443
-www.ryazagro.ru
-dev.ryazagro.ru
-org.ryazagro.ru
-mail.web.ryazagro.ru
 www.ryazangov.ru
 210.ryazangov.ru
 ac.ryazangov.ru
@@ -79,3 +73,9 @@ uag.ryazangov.ru
 zags.ryazangov.ru
 www.zags.ryazangov.ru
 zan.ryazangov.ru
+www.ryazagro.ru
+dev.ryazagro.ru
+org.ryazagro.ru
+mail.web.ryazagro.ru
+www.ksp62.ru
+www.ksp62.ru:443

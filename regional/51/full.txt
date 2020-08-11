@@ -4,7 +4,6 @@ duma-murman.ru
 kspmo.ru
 gubernator51.ru
 murman-zan.ru
-www.51gosuslugi.ru
 www.duma-murman.ru
 evkd.duma-murman.ru
 evkd-api.duma-murman.ru
@@ -96,5 +95,6 @@ video.gov-murman.ru
 wb.gov-murman.ru
 aisdafmo.gov-murman.ru:8084
 www.gubernator51.ru
-www.kspmo.ru
 www.murman-zan.ru
+www.51gosuslugi.ru
+www.kspmo.ru

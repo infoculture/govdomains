@@ -11,14 +11,16 @@ ulyanovsk-zan.ru
 ulmincult.ru
 uprava.mv.ru
 depvet.ru
+www.ulyanovsk-zan.ru
+www.zsuo.ru
 cloud.agro-ul.ru
 gw.agro-ul.ru
-www.ekonom73.ru
-tarif.ekonom73.ru
-www.tarif.ekonom73.ru
 www.mo73.ru
 old.mo73.ru
 www.old.mo73.ru
+www.ekonom73.ru
+tarif.ekonom73.ru
+www.tarif.ekonom73.ru
 www.ulregion.ru
 autodiscover.ulregion.ru
 bsizgan.ulregion.ru
@@ -67,5 +69,3 @@ wc.ulregion.ru
 wego.ulregion.ru
 r.wego.ulregion.ru
 dgrad.rgu.ulregion.ru:8080
-www.ulyanovsk-zan.ru
-www.zsuo.ru

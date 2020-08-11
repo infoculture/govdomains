@@ -8,11 +8,8 @@ burprirodnadzor.ru
 burzakup.ru
 alh-rb.ru
 zags03.ru
-www.alh-rb.ru
-mail.burprirodnadzor.ru
-223.burzakup.ru
-torgi.burzakup.ru
-old.egov-buryatia.ru
+www.minzdravrb.ru
+www.minpriroda-rb.ru
 a.govrb.ru
 bif.govrb.ru
 budget.govrb.ru
@@ -47,6 +44,9 @@ video.govrb.ru
 vote.govrb.ru
 voting.govrb.ru
 www.minkultrb.ru
-www.minpriroda-rb.ru
-www.minzdravrb.ru
+mail.burprirodnadzor.ru
+www.alh-rb.ru
 www.msmrb.ru
+223.burzakup.ru
+torgi.burzakup.ru
+old.egov-buryatia.ru

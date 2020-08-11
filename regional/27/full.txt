@@ -12,13 +12,6 @@ pravo.khv.ru
 deti.khv.ru
 ombudsmanbiz27.ru
 ksp27.ru
-www.deti.khv.ru
-www.edu27.ru
-www.fond27.ru
-www.golos27.ru
-www.khabkrai.ru
-minfin.khabkrai.ru
-www.minfin.khabkrai.ru
 assoc.khv.gov.ru
 call.khv.gov.ru
 conference-2-standalonecluster.khv.gov.ru
@@ -41,5 +34,12 @@ regulation.khv.gov.ru
 sa.khv.gov.ru
 m.sed.khv.gov.ru
 telecom.khv.gov.ru
+www.edu27.ru
+www.deti.khv.ru
 www.uslugi27.ru
 adm.uslugi27.ru
+www.fond27.ru
+www.khabkrai.ru
+minfin.khabkrai.ru
+www.minfin.khabkrai.ru
+www.golos27.ru

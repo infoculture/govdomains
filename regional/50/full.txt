@@ -3,8 +3,6 @@ rcmo.ru
 fkr-mosreg.ru
 sovetmo.ru
 mosoblduma.ru
-pay.fkr-mosreg.ru
-www.pay.fkr-mosreg.ru
 www.mosoblduma.ru
 adiios.mosreg.ru
 aisgku.mosreg.ru
@@ -169,3 +167,5 @@ ownc.welcome.mosreg.ru
 wow.mosreg.ru
 zdrav.mosreg.ru
 www.zdrav.mosreg.ru
+pay.fkr-mosreg.ru
+www.pay.fkr-mosreg.ru

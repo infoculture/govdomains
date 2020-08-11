@@ -2,7 +2,6 @@ admobl.kaluga.ru
 ombudsman.kaluga.ru
 ombudsmanbiz40.ru
 admoblkaluga.ru
-www.admobl.kaluga.ru
 www.admoblkaluga.ru
 220fz.admoblkaluga.ru
 amaloyar.admoblkaluga.ru
@@ -58,3 +57,4 @@ zags.admoblkaluga.ru
 entry.admoblkaluga.ru:444
 entry.admoblkaluga.ru:81
 www.ombudsman.kaluga.ru
+www.admobl.kaluga.ru
