@@ -2,6 +2,7 @@ permkrai.ru
 permarea.ru
 visitperm.ru
 invest.gorodperm.ru
+www.visitperm.ru
 aleksandrovsk.permarea.ru
 bardaarea.permarea.ru
 berezov.permarea.ru
@@ -220,4 +221,3 @@ www.szn.permkrai.ru
 www2.permkrai.ru
 zags.permkrai.ru
 esiaminsoc.permkrai.ru:2000
-www.visitperm.ru

@@ -4,6 +4,13 @@ rup33.ru
 zsvo.ru
 ombudsman33.ru
 spvo.ru
+www.investvladimir.ru
+agriculture.investvladimir.ru
+map.investvladimir.ru
+map-admin.investvladimir.ru
+www.spvo.ru
+www.zsvo.ru
+sv.zsvo.ru
 www.avo.ru
 admgor.avo.ru
 www.admgor.avo.ru
@@ -117,10 +124,3 @@ yp33gorod.avo.ru
 yu-pol.avo.ru
 zags.avo.ru
 gasu.avo.ru:8080
-www.investvladimir.ru
-agriculture.investvladimir.ru
-map.investvladimir.ru
-map-admin.investvladimir.ru
-www.spvo.ru
-www.zsvo.ru
-sv.zsvo.ru

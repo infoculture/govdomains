@@ -1,7 +1,5 @@
 rkomi.ru
 gsrk.ru
-www.gsrk.ru
-gsrk.kpr.gsrk.ru
 www.rkomi.ru
 85.rkomi.ru
 adm.rkomi.ru
@@ -224,3 +222,5 @@ azkold.rkomi.ru:5014
 azkold.rkomi.ru:5015
 plan.rkomi.ru:5199
 www.kp.rkomi.ru:8080
+www.gsrk.ru
+gsrk.kpr.gsrk.ru

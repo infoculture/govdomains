@@ -1,5 +1,6 @@
 49gov.ru
 magfer.ru
+www.magfer.ru
 www.49gov.ru
 admmintrans.49gov.ru
 admmintrud.49gov.ru
@@ -56,4 +57,3 @@ webconf.49gov.ru
 webx.49gov.ru
 webx-admin.49gov.ru
 zakupki.49gov.ru
-www.magfer.ru

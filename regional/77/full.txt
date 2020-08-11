@@ -1,4 +1,14 @@
+mos.ru
+investmoscow.ru
+icmos.ru
+mos-sud.ru
+ums-mos.ru
+soccard.ru
+mos-gorsud.ru
 www.icmos.ru
+www.soccard.ru
+bilet.soccard.ru
+loyalty.soccard.ru
 www.investmoscow.ru
 ae.investmoscow.ru
 www.ae.investmoscow.ru
@@ -17,8 +27,6 @@ en.int.investmoscow.ru
 kg.investmoscow.ru
 www.kg.investmoscow.ru
 vdnh.investmoscow.ru
-mos-gorsud.ru
-www.mos-sud.ru
 mos.ru
 ag.mos.ru
 crowd.mos.ru
@@ -2258,7 +2266,6 @@ conf.dit.mos.ru
 sgtn.tech.mos.ru
 upload.new.tech.mos.ru
 pgu.tech.mos.ru
-www.soccard.ru
-bilet.soccard.ru
-loyalty.soccard.ru
+www.mos-sud.ru
 www.ums-mos.ru
+mos-gorsud.ru

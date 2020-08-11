@@ -13,6 +13,12 @@ www.test.fkr25.ru
 webdisk.fkr25.ru
 webmail.fkr25.ru
 www.ksp25.ru
+www.zspk.gov.ru
+forums.zspk.gov.ru
+mail.zspk.gov.ru
+monitoring.zspk.gov.ru
+old.zspk.gov.ru
+session.zspk.gov.ru
 www.primorsky.ru
 archive.primorsky.ru
 cas.primorsky.ru
@@ -84,9 +90,3 @@ wa.primorsky.ru
 web.primorsky.ru
 webmail.primorsky.ru
 webservice.primorsky.ru
-www.zspk.gov.ru
-forums.zspk.gov.ru
-mail.zspk.gov.ru
-monitoring.zspk.gov.ru
-old.zspk.gov.ru
-session.zspk.gov.ru

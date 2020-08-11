@@ -6,6 +6,11 @@ socrazvitie67.ru
 edu67.ru
 smoloblduma.ru
 ksp67.ru
+www.ombudsmanbiz67.ru
+www.finsmol.ru
+www.socrazvitie67.ru
+fotokonkurs.socrazvitie67.ru
+www.new.socrazvitie67.ru
 www.admin-smolensk.ru
 1class.admin-smolensk.ru
 agibalovskoe.admin-smolensk.ru
@@ -176,13 +181,8 @@ stomyarcevo.zdrav.admin-smolensk.ru
 zdrav-dep.admin-smolensk.ru
 znamiaskoe.admin-smolensk.ru
 pgu.admin-smolensk.ru:8443
-www.finsmol.ru
-www.ombudsmanbiz67.ru
+sv.smoloblduma.ru
 www.smolinvest.com
 corp.smolinvest.com
 dep.smolinvest.com
 old.smolinvest.com
-sv.smoloblduma.ru
-www.socrazvitie67.ru
-fotokonkurs.socrazvitie67.ru
-www.new.socrazvitie67.ru

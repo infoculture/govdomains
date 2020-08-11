@@ -2,7 +2,6 @@ tambov.gov.ru
 tambovoblduma.ru
 tmbreg.ru
 gosuslugi68.ru
-www.gosuslugi68.ru
 www.tambov.gov.ru
 agro.tambov.gov.ru
 www.agro.tambov.gov.ru
@@ -299,3 +298,4 @@ znamcrb.tmbreg.ru
 www.zolotoyvityaz.tmbreg.ru
 zoo.tmbreg.ru
 www.zoo.tmbreg.ru
+www.gosuslugi68.ru

@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-import sys, os
-
 
 
 f = open('../full.txt', 'r')

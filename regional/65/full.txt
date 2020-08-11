@@ -4,6 +4,7 @@ spsakh.ru
 sakhminfin.ru
 ombudsmanbiz65.ru
 admsakhalin.ru
+www.ombudsmanbiz65.ru
 www.admsakhalin.ru
 achs.admsakhalin.ru
 s.achs.admsakhalin.ru
@@ -56,12 +57,6 @@ uso.admsakhalin.ru
 ws.admsakhalin.ru
 zags.admsakhalin.ru
 netcity.admsakhalin.ru:10171
-archive.dumasakhalin.ru
-doc.dumasakhalin.ru
-ci.doc.dumasakhalin.ru
-ns2.dumasakhalin.ru
-sod6.dumasakhalin.ru
-www.ombudsmanbiz65.ru
 aepg.sakhalin.gov.ru
 agro.sakhalin.gov.ru
 aipreport.sakhalin.gov.ru
@@ -120,3 +115,8 @@ pib.sakhminfin.ru
 svod.sakhminfin.ru
 temppib.sakhminfin.ru
 zakupki.sakhminfin.ru
+archive.dumasakhalin.ru
+doc.dumasakhalin.ru
+ci.doc.dumasakhalin.ru
+ns2.dumasakhalin.ru
+sod6.dumasakhalin.ru

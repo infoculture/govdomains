@@ -2,7 +2,6 @@ saratov.gov.ru
 srd.ru
 ombudsman64.ru
 ombudsman64.biz
-www.ombudsman64.biz
 www.saratov.gov.ru
 ex.saratov.gov.ru
 konsultant.saratov.gov.ru
@@ -81,3 +80,4 @@ zags.saratov.gov.ru
 www.zags.saratov.gov.ru
 zanas.saratov.gov.ru
 www.srd.ru
+www.ombudsman64.biz
